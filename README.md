@@ -1,1 +1,1 @@
-My first readme
+My #do hard things first readme
